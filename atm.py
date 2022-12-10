@@ -1,0 +1,16 @@
+a=int(input("Enter a number "))
+b=int(input("Enter a number "))
+sum=a+b
+diff=a-b
+mult=a*b
+div=a/b
+flr=a//b
+mod=a%b
+exp=a**b
+print("Sum             = ",sum)
+print("Diffrence       = ",diff)
+print("Product         = ",mult)
+print("Ratio           = ",div)
+print("Floor divisiion = ",flr)
+print("Modulus         = ",mod)
+print("Exponential     = ",exp)
